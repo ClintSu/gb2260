@@ -1,5 +1,8 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*- 
+
+#手动粘贴每年数据到excel中 http://www.mca.gov.cn/article/sj/xzqh/1980/
+
 import openpyxl
 
 wb = openpyxl.Workbook()
